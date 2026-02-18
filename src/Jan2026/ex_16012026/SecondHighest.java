@@ -4,7 +4,7 @@ public class SecondHighest {
 
     public static void main(String[] args) {
 
-        int[] numbers = {12, 34, 10, 1, 100, 3, 4, 32};//100,34
+        int[] numbers = {12, 34, 10, 1, 100, 3, 4, 102};//100,34
 
         int max=0;
         int secondmax=0;
